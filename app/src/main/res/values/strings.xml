@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Jam Sholat</string>
+    <string name="action_settings">Settings</string>
+    <string name="kiblat">Arah Kiblat</string>
+    <string name="waktu_sholat">Waktu Sholat</string>
+    <string name="compass_description">Kompas Arah Kiblat</string>
+    <!-- Untuk contentDescription ikon set alarm -->
+    <string name="desc_set_alarm">Set alarm adzan</string>
+    <!-- Untuk contentDescription ikon stop alarm -->
+    <string name="desc_cancel_alarm">Hentikan alarm adzan</string>
+    <string name="alarm_on">Alarm diaktifkan</string>
+    <string name="alarm_off">Alarm dimatikan</string>
+
+</resources>
